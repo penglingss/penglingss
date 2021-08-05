@@ -29,7 +29,7 @@
 </td></tr></table>   -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=penglingss&hide=stars&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=penglingss&hide=stars&show_icons=true&count_private=true&hide_border=false"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=penglingss&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32"> -->
 </p>
 
